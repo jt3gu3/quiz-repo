@@ -1,2 +1,5 @@
-# quiz-repo
-Quiz di informatica
+#Quiz di informatica
+
+#Committante: insegnate di informatica
+
+#Team: Jean; Alice

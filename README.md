@@ -5,7 +5,7 @@
 #Team: Jean; Alice
 
 
-1) Quale di questi valori non può rappresentare un valore bool?
+1) Quale di questi valori rappresenta un valore bool?
 1.	ON e OFF
 2.	1 e 0
 3.	True e False
